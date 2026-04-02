@@ -1,6 +1,3 @@
-Vi o repositório. O README atual ainda usa a URL do repo original (`gabs-acc/inspertex`) no clone. Aqui está a versão atualizada com a URL correta e todas as mudanças:
-
-```markdown
 # Template Insper de Trabalho Acadêmico
 
 > **Fork do projeto original [gabs-acc/inspertex](https://github.com/gabs-acc/inspertex).**  
@@ -88,6 +85,3 @@ Template original desenvolvido por [gabs-acc](https://github.com/gabs-acc/insper
 ## Licença
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-```
-
-A única mudança estrutural em relação à versão anterior que te passei foi corrigir a URL do clone de `gabs-acc/inspertex` para **`Hic-Tayfour/inspertex`**. O resto já estava alinhado com o que o repositório realmente contém.
